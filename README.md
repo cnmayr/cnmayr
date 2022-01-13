@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cnmayr
+- 👀 I’m interested in home automation, esp. esphome and openhab with a focus on energy flows in your home
